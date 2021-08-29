@@ -5,7 +5,7 @@ Repo For Data Engineer Task
 
 project structure
 htdocs
-|--incubyte
+----incubyte
       |-- data.php
       |-- db_connection.php
       |-- records
