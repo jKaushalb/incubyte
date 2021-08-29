@@ -4,14 +4,13 @@ Repo For Data Engineer Task
 
 
 project structure
-
-# htdocs
-  # |--incubyte
-  #  |-- data.php
-  #  |-- db_connection.php
-  #  |-- records
-  #       |-- record.dat
-  #       |-- record1.dat
+htdocs
+|--incubyte
+      |-- data.php
+      |-- db_connection.php
+      |-- records
+          |-- record.dat
+          |-- record1.dat
      
 Approach:
 
