@@ -4,14 +4,15 @@ Repo For Data Engineer Task
 
 
 project structure
+<pre>
 htdocs
-----incubyte
+   |--incubyte
       |-- data.php
       |-- db_connection.php
       |-- records
           |-- record.dat
           |-- record1.dat
-     
+</pre>     
 Approach:
 
 Here i will read all the files in records directory. In each file i will split each row by | and if first index is D then i will check  whether table with given country  exist in 
